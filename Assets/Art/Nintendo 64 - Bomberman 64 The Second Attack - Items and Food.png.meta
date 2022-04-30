@@ -1,0 +1,1020 @@
+fileFormatVersion: 2
+guid: 54e7c0b01135eef4e84bd6ede9b728e8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7627377388482119285
+    second: Nintendo 64 - Bomberman 64 The Second Attack - Items and Food_1
+  - first:
+      213: -1375688059504867362
+    second: Nintendo 64 - Bomberman 64 The Second Attack - Items and Food_2
+  - first:
+      213: -3662203372457336499
+    second: Nintendo 64 - Bomberman 64 The Second Attack - Items and Food_3
+  - first:
+      213: -5987674182072912068
+    second: Nintendo 64 - Bomberman 64 The Second Attack - Items and Food_4
+  - first:
+      213: -7077922668281404017
+    second: Nintendo 64 - Bomberman 64 The Second Attack - Items and Food_5
+  - first:
+      213: 5767724132088162669
+    second: Nintendo 64 - Bomberman 64 The Second Attack - Items and Food_6
+  - first:
+      213: -917179462799967513
+    second: Nintendo 64 - Bomberman 64 The Second Attack - Items and Food_0
+  - first:
+      213: 6464161702824477814
+    second: Nintendo 64 - Bomberman 64 The Second Attack - Items and Food_7
+  - first:
+      213: -6958271367124943511
+    second: Nintendo 64 - Bomberman 64 The Second Attack - Items and Food_8
+  - first:
+      213: -965459503236333952
+    second: Nintendo 64 - Bomberman 64 The Second Attack - Items and Food_9
+  - first:
+      213: 3021810258725140120
+    second: Nintendo 64 - Bomberman 64 The Second Attack - Items and Food_10
+  - first:
+      213: -254107578029254432
+    second: Nintendo 64 - Bomberman 64 The Second Attack - Items and Food_11
+  - first:
+      213: -2068750521048353694
+    second: Nintendo 64 - Bomberman 64 The Second Attack - Items and Food_12
+  - first:
+      213: 6411838349663001816
+    second: Nintendo 64 - Bomberman 64 The Second Attack - Items and Food_13
+  - first:
+      213: 6215497923180305420
+    second: Nintendo 64 - Bomberman 64 The Second Attack - Items and Food_14
+  - first:
+      213: -9041106219830239525
+    second: Nintendo 64 - Bomberman 64 The Second Attack - Items and Food_15
+  - first:
+      213: -6156952264793425854
+    second: Nintendo 64 - Bomberman 64 The Second Attack - Items and Food_16
+  - first:
+      213: -6315122130676043235
+    second: Nintendo 64 - Bomberman 64 The Second Attack - Items and Food_17
+  - first:
+      213: -8686466496647938395
+    second: Nintendo 64 - Bomberman 64 The Second Attack - Items and Food_18
+  - first:
+      213: 6912163017520359570
+    second: Nintendo 64 - Bomberman 64 The Second Attack - Items and Food_19
+  - first:
+      213: 2332697564103355262
+    second: Nintendo 64 - Bomberman 64 The Second Attack - Items and Food_20
+  - first:
+      213: 6564974778353788628
+    second: Nintendo 64 - Bomberman 64 The Second Attack - Items and Food_21
+  - first:
+      213: -7474870643730563485
+    second: Nintendo 64 - Bomberman 64 The Second Attack - Items and Food_22
+  - first:
+      213: -4010425686143401888
+    second: Nintendo 64 - Bomberman 64 The Second Attack - Items and Food_23
+  - first:
+      213: 6821643428106718812
+    second: Nintendo 64 - Bomberman 64 The Second Attack - Items and Food_24
+  - first:
+      213: -3805903333809340631
+    second: Nintendo 64 - Bomberman 64 The Second Attack - Items and Food_25
+  - first:
+      213: 1227721461576604857
+    second: Nintendo 64 - Bomberman 64 The Second Attack - Items and Food_26
+  - first:
+      213: -515823698309562700
+    second: Nintendo 64 - Bomberman 64 The Second Attack - Items and Food_27
+  - first:
+      213: -4096167204646392997
+    second: Nintendo 64 - Bomberman 64 The Second Attack - Items and Food_28
+  - first:
+      213: 6119528850320570357
+    second: Nintendo 64 - Bomberman 64 The Second Attack - Items and Food_29
+  - first:
+      213: 3395876849901284890
+    second: Nintendo 64 - Bomberman 64 The Second Attack - Items and Food_30
+  - first:
+      213: -5923374308245370709
+    second: Nintendo 64 - Bomberman 64 The Second Attack - Items and Food_31
+  - first:
+      213: -7348830934726883208
+    second: Nintendo 64 - Bomberman 64 The Second Attack - Items and Food_32
+  - first:
+      213: 8697917719598030477
+    second: Nintendo 64 - Bomberman 64 The Second Attack - Items and Food_33
+  - first:
+      213: -6407455574348229878
+    second: Nintendo 64 - Bomberman 64 The Second Attack - Items and Food_34
+  - first:
+      213: 2651962284818747784
+    second: Nintendo 64 - Bomberman 64 The Second Attack - Items and Food_35
+  - first:
+      213: 7572906316353034430
+    second: Nintendo 64 - Bomberman 64 The Second Attack - Items and Food_36
+  - first:
+      213: -7975772050805801321
+    second: Nintendo 64 - Bomberman 64 The Second Attack - Items and Food_37
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nintendo 64 - Bomberman 64 The Second Attack - Items and Food_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 178
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea368453268543f0800000000000000
+      internalID: -917179462799967513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Bomberman 64 The Second Attack - Items and Food_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 178
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576c250c253e9d960800000000000000
+      internalID: 7627377388482119285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Bomberman 64 The Second Attack - Items and Food_2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 178
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed74773aff298ece0800000000000000
+      internalID: -1375688059504867362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Bomberman 64 The Second Attack - Items and Food_3
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 178
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4161799f6d3d2dc0800000000000000
+      internalID: -3662203372457336499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Bomberman 64 The Second Attack - Items and Food_4
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 178
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3734c23e0287eca0800000000000000
+      internalID: -5987674182072912068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Bomberman 64 The Second Attack - Items and Food_5
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 178
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85e66965da26cd90800000000000000
+      internalID: -7077922668281404017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Bomberman 64 The Second Attack - Items and Food_6
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 178
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6920971a821b0050800000000000000
+      internalID: 5767724132088162669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Bomberman 64 The Second Attack - Items and Food_7
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 136
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6748983f1d055b950800000000000000
+      internalID: 6464161702824477814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Bomberman 64 The Second Attack - Items and Food_8
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 136
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96dfebfde014f6f90800000000000000
+      internalID: -6958271367124943511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Bomberman 64 The Second Attack - Items and Food_9
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 136
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08eb29072bff992f0800000000000000
+      internalID: -965459503236333952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Bomberman 64 The Second Attack - Items and Food_10
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 136
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89671f98b60afe920800000000000000
+      internalID: 3021810258725140120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Bomberman 64 The Second Attack - Items and Food_11
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 136
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8d4dc018a397cf0800000000000000
+      internalID: -254107578029254432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Bomberman 64 The Second Attack - Items and Food_12
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 138
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2643200ac525a43e0800000000000000
+      internalID: -2068750521048353694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Bomberman 64 The Second Attack - Items and Food_13
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 138
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dcd3e4f10d6bf850800000000000000
+      internalID: 6411838349663001816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Bomberman 64 The Second Attack - Items and Food_14
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 97
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c17551e62e14650800000000000000
+      internalID: 6215497923180305420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Bomberman 64 The Second Attack - Items and Food_15
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 97
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde917e7bc9878280800000000000000
+      internalID: -9041106219830239525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Bomberman 64 The Second Attack - Items and Food_16
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 97
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24873fd398c1e8aa0800000000000000
+      internalID: -6156952264793425854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Bomberman 64 The Second Attack - Items and Food_17
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 97
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12b8df81ed2c58a0800000000000000
+      internalID: -6315122130676043235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Bomberman 64 The Second Attack - Items and Food_18
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 97
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aeb7f18eb8737780800000000000000
+      internalID: -8686466496647938395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Bomberman 64 The Second Attack - Items and Food_19
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 97
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298a4e864afecef50800000000000000
+      internalID: 6912163017520359570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Bomberman 64 The Second Attack - Items and Food_20
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 97
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7baccc43186f5020800000000000000
+      internalID: 2332697564103355262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Bomberman 64 The Second Attack - Items and Food_21
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 97
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d62d2737c97b1b50800000000000000
+      internalID: 6564974778353788628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Bomberman 64 The Second Attack - Items and Food_22
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 56
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36eb17ac0cce34890800000000000000
+      internalID: -7474870643730563485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Bomberman 64 The Second Attack - Items and Food_23
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 57
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060025b261b1858c0800000000000000
+      internalID: -4010425686143401888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Bomberman 64 The Second Attack - Items and Food_24
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 56
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ecda42e885bae50800000000000000
+      internalID: 6821643428106718812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Bomberman 64 The Second Attack - Items and Food_25
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 56
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92fb1da1517be2bc0800000000000000
+      internalID: -3805903333809340631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Bomberman 64 The Second Attack - Items and Food_26
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 56
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc95602a2eb90110800000000000000
+      internalID: 1227721461576604857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Bomberman 64 The Second Attack - Items and Food_27
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 56
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4beb78f441d67d8f0800000000000000
+      internalID: -515823698309562700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Bomberman 64 The Second Attack - Items and Food_28
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 56
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b627a31ad7727c0800000000000000
+      internalID: -4096167204646392997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Bomberman 64 The Second Attack - Items and Food_29
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 56
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7bc14111fece450800000000000000
+      internalID: 6119528850320570357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Bomberman 64 The Second Attack - Items and Food_30
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 14
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ea65bb004902f20800000000000000
+      internalID: 3395876849901284890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Bomberman 64 The Second Attack - Items and Food_31
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 14
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba80c553372fbcda0800000000000000
+      internalID: -5923374308245370709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Bomberman 64 The Second Attack - Items and Food_32
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 14
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878c33d5335b30a90800000000000000
+      internalID: -7348830934726883208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Bomberman 64 The Second Attack - Items and Food_33
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 14
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e573a151635b870800000000000000
+      internalID: 8697917719598030477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Bomberman 64 The Second Attack - Items and Food_34
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 14
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0390e07a152417a0800000000000000
+      internalID: -6407455574348229878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Bomberman 64 The Second Attack - Items and Food_35
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 14
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881da58b5a9adc420800000000000000
+      internalID: 2651962284818747784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Bomberman 64 The Second Attack - Items and Food_36
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 14
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8d887fb2e581960800000000000000
+      internalID: 7572906316353034430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Bomberman 64 The Second Attack - Items and Food_37
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 14
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e3b36c39d505190800000000000000
+      internalID: -7975772050805801321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
