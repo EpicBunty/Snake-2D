@@ -2,37 +2,22 @@ using UnityEngine;
 
 public class ConsumablesManager : MonoBehaviour
 {
-    public SnakeController snakeController; //check snake segments and spawn food accordingly
-
-    public Consumable foodConsumable;
-    public Consumable massGainerFood;
-    public Consumable massLoserFood;
-    public Consumable shieldPower;
-    //public Consumable speedBoost;
-    public float enableAfterTime;
-    void Start()
-    {
-
-    }
-
+    public SnakeController snake; //check snake segments and spawn food accordingly
+    public int SnakeSegments;
+    public Consumable[] consumables;
+    
     void Update()
     {
-        if (!foodConsumable.gameObject.activeSelf)
-            Invoke("EnableConsumable", enableAfterTime);
+        int snakeSegmentsCount = snake.segments.Count;
+        // find more performant way of doing this
+        for (int i = 0; i < consumables.Length; i++)
+        {
+            if (snakeSegmentsCount >= consumables[i].AppearAfterXsegments && !consumables[i].Despawned)
+            {
+                consumables[i].gameObject.SetActive(true);
+            }
+            else consumables[i].gameObject.SetActive(false);
+        }
     }
 
-    void EnableConsumable()
-    {
-        foodConsumable.gameObject.SetActive(true);
-    }
-
-    /* void DisableConsumable()
-     {
-         timeSinceActive += Time.deltaTime;
-
-         if (timeSinceActive >= timetoRemainActive)
-         {
-             Destroy(gameObject);
-         }
-     }*/
 }

@@ -14,6 +14,11 @@ TagManager:
   - --Food
   - Shield
   - Speedboost
+  - Xpboost
+  - Player2
+  - Player1body
+  - Player2body
+  - Player1
   layers:
   - Default
   - TransparentFX
@@ -21,7 +26,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - TOP
   - 
   - 
   - 
