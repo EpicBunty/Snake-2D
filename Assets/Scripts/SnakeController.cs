@@ -24,6 +24,7 @@ public class SnakeController : MonoBehaviour
 
     private void Start()
     {
+        SoundManager.Instance.PlayBgMusic(Sounds.BgMusic);
         ResetState();
     }
 
@@ -58,11 +59,11 @@ public class SnakeController : MonoBehaviour
 
     private void InputBasedOnPlayer()
     {
-        if (this.CompareTag("Player"))
-        {
+       /* if (this.CompareTag("Player"))
+        {*/
             horizontal = Input.GetAxisRaw("Horizontal");
             vertical = Input.GetAxisRaw("Vertical");
-        }
+        /*}
         else
         {
             if (Input.GetKeyDown(KeyCode.UpArrow))
@@ -84,7 +85,7 @@ public class SnakeController : MonoBehaviour
                 horizontal = -1;
             }
             else horizontal = 0;
-        }
+        }*/
     }
 
     private void FixedUpdate()
@@ -108,22 +109,26 @@ public class SnakeController : MonoBehaviour
             Grow();
             speed += .01f;    // ADJUST
             UIcontroller.ScoreIncrement(1);
+            SoundManager.Instance.Play(Sounds.Collectible2);
         }
 
         else if (collision.CompareTag("--Food"))
         {
             Shrink();
             UIcontroller.ScoreIncrement(1);
+            SoundManager.Instance.Play(Sounds.Collectible2);
         }
 
         else if (collision.CompareTag("Xpboost"))
         {
+            SoundManager.Instance.Play(Sounds.Collectible1);
             UIcontroller.scoreBoost = true;
             Invoke("SetScoreBoostToFalse", 7);
         }
 
         else if (collision.CompareTag("Shield"))
         {
+            SoundManager.Instance.Play(Sounds.Collectible1);
             shieldBoost = true;
             Invoke("SetShieldToFalse", 7);
         }
@@ -142,7 +147,8 @@ public class SnakeController : MonoBehaviour
         {
             speedBoost = true;
             SpeedBoost();
-            Invoke("SetSpeedboostToFalse", 4); // bug- when called multiple times speed boost becomes permanent, temp implementation for now-
+            Invoke("SetSpeedboostToFalse", 4);
+            SoundManager.Instance.Play(Sounds.Collectible1);
         }
 
         // WRAPPING-
@@ -180,7 +186,7 @@ public class SnakeController : MonoBehaviour
         currentDirection.x *= speed;
         currentDirection.y *= speed;
     }
-    //void SetSpeed(float speedboost) { oldspeed = speed; speed += speedboost; }
+    
     private void Grow()
     {
         Transform segment = Instantiate(this.bodyprefab);

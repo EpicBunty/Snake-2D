@@ -9,7 +9,7 @@ public class SoundManager : MonoBehaviour
     [SerializeField] private AudioSource soundMusic;
 
     [SerializeField] private AudioSource soundEffect;
-    
+
     [SerializeField] private SoundType[] sounds;
     private void Awake()
     {
@@ -26,7 +26,7 @@ public class SoundManager : MonoBehaviour
 
     private void Start()
     {
-        PlayBgMusic(Sounds.BgMusic);
+        //PlayBgMusic(Sounds.BgMusic);
     }
 
     public void PlayBgMusic(Sounds sound)
@@ -90,9 +90,10 @@ public enum Sounds
 {
     ButtonClick,
     ButtonBack,
+    GameStart,
+    LobbyMusic,
     BgMusic,
-    Collectible,
-    PlayerMove,
-    PlayerDeath,
-    NewLevel,
+    Collectible1,
+    Collectible2,
+    FightMusic,
 }

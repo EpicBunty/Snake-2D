@@ -14,7 +14,7 @@ public class CoopCanvasController : MonoBehaviour
     public GameObject GameOverMenu;
     public Button restartButton;
     public Button lobbyButton;
-    public CoopSnakeController Snake;
+    public CoopSnakeController[] Snake;
 
     private void Awake()
     {
@@ -54,7 +54,7 @@ public class CoopCanvasController : MonoBehaviour
 
     private void RefreshScore()
     {
-        player1scoreUI.text = "Player 1 SCORE" + Player1score;
+        player1scoreUI.text = "Player 1  SCORE" + Player1score;
 
         player2scoreUI.text = "Player 2  SCORE" + Player2score;
     }
@@ -67,17 +67,25 @@ public class CoopCanvasController : MonoBehaviour
     public void ReloadScene()
     {
         Time.timeScale = 1;
-        Snake.ResetState();
+        for (int i=0 ; i < Snake.Length; i++)
+        {
+            Snake[i].ResetState();
+            Snake[i].initialSize += 1;
+        }
+       
         OpenGameOverMenu(false);
         playWonText.gameObject.SetActive(false);
-        /*Snake.segments.Clear();
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);*/
+        
     }
 
     public void OpenGameOverMenu(bool value)
     {
-        GameOverMenu.SetActive(value);
+        if (value)
+            SoundManager.Instance.PlayBgMusic(Sounds.BgMusic);
+        else
+            SoundManager.Instance.PlayBgMusic(Sounds.FightMusic);
 
+        GameOverMenu.SetActive(value);
     }
 }
 

@@ -14,6 +14,8 @@ public class LobbyController : MonoBehaviour
 
     private void Awake()
     {
+        //SoundManager.Instance.PlayBgMusic(Sounds.LobbyMusic);
+
         InstructionsMenu.SetActive(false);
 
         buttonPlay.onClick.AddListener(PlayGame);
@@ -23,31 +25,38 @@ public class LobbyController : MonoBehaviour
         buttonBack.onClick.AddListener(GoBack);
         
     }
+
+    private void Start()
+    {
+        SoundManager.Instance.PlayBgMusic(Sounds.LobbyMusic);
+    }
     private void PlayGame()
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
-        /*SoundManager.Instance.Play(Sounds.ButtonClick);
-        InstructionsMenu.SetActive(true);*/
+        SoundManager.Instance.Play(Sounds.GameStart);
+        //InstructionsMenu.SetActive(true);
     }
 
     private void PlayCoop()
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 2);
+        SoundManager.Instance.Play(Sounds.GameStart);
     }
 
     private void ShowInstructions()
     {
+        SoundManager.Instance.Play(Sounds.ButtonClick);
         InstructionsMenu.SetActive(true);
     }
     void GoBack()
     {
-        // SoundManager.Instance.Play(Sounds.ButtonBack);
+        SoundManager.Instance.Play(Sounds.ButtonBack);
         InstructionsMenu.SetActive(false);
     }
 
     private void QuitGame()
     {
-        //SoundManager.Instance.Play(Sounds.ButtonBack);
+        SoundManager.Instance.Play(Sounds.ButtonBack);
         UnityEditor.EditorApplication.isPlaying = false;
         Application.Quit();
     }

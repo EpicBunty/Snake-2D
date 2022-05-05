@@ -25,6 +25,7 @@ public class CoopSnakeController : MonoBehaviour
 
     private void Start()
     {
+        SoundManager.Instance.PlayBgMusic(Sounds.FightMusic);
         ResetState();
     }
     private void Update()
@@ -142,11 +143,13 @@ public class CoopSnakeController : MonoBehaviour
         {
             CoopUIcontroller.Player1ScoreIncrement(1);
             CoopUIcontroller.GameOverScreen("Player 1");
+            initialSize += 1;
         }
         else if (this.CompareTag("Player2") && collision.CompareTag("Player1body"))
         {
             CoopUIcontroller.Player2ScoreIncrement(1);
             CoopUIcontroller.GameOverScreen("Player 2");
+            initialSize += 1;
         }
 
     }
